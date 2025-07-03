@@ -28,7 +28,7 @@
 - 🛰️ [`k8s_bot`](https://github.com/DLgipp/k8s_bot) — Telegram-бот, задеплоенный в Kubernetes. CI/CD, Helm, Docker, Yandex Cloud.  
 - 🔐 [`Vless-generater`](https://github.com/DLgipp/Vless-generater) — Генератор конфигураций VLESS для VPN и прокси-серверов.  
 - 🛡️ [`vpn-server`](https://github.com/DLgipp/vpn-server) — Настройка и автоматизация VPN-сервера с конфигурациями.  
-- 🎥 [`my_shinobi`](https://github.com/DLgipp/my_shinobi) — Скрипты и конфигурации для Shinobi CCTV, интеграция с облаком.
+- 🎥 [`my_shinobi`](https://github.com/DLgipp/my_shinobi) — Скрипты и конфигурации для Shinobi VMS, интеграция с облаком.
 
 ---
 
